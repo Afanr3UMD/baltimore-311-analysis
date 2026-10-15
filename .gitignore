@@ -1,0 +1,23 @@
+# Raw and cleaned data files are too large for GitHub.
+# The README explains how to download the raw data yourself.
+data/raw/*
+data/clean/*
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+
+# Compressed downloads
+*.zip
+*.gz
+
+# Local database credentials and settings
+.env
+.pgpass
+
+# OS and editor clutter
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
