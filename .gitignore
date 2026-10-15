@@ -4,6 +4,8 @@ data/raw/*
 data/clean/*
 !data/raw/.gitkeep
 !data/clean/.gitkeep
+# Small population tables (under 10 KB) are kept so the project runs without extra downloads
+!data/raw/population_*.csv
 
 # Compressed downloads
 *.zip
