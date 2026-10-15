@@ -18,7 +18,7 @@
            RETURNING hands back one row per changed row, and the INSERT
            counts them, so the logged number is exactly what changed.
 
- Run from the project folder, after sql/02_load.sql (about 3 minutes):
+ Run from the project folder, after sql/02_load.sql (about 5 minutes):
    psql -d baltimore_311 -f sql/03_cleaning.sql
 */
 
