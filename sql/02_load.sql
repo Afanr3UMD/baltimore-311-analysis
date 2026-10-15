@@ -8,7 +8,8 @@
    cd 311Resume
    psql -d baltimore_311 -f sql/02_load.sql
 
- Download the files first (see data/README.md).
+ Download the files first (see data/README.md). Safe to re-run: it empties the
+ tables first, so running it twice never doubles the data.
 
  The city's export leaves off the last two columns (x, y) on rows with no map
  location (about 30% of rows), and \copy rejects rows with too few fields. So
@@ -16,7 +17,11 @@
  missing empty fields and changes nothing else. The population files load directly.
 */
 
-\echo 'Loading 311 data (about a minute)...'
+\set ON_ERROR_STOP on
+
+\echo 'Loading 311 data (about 30 seconds)...'
+
+TRUNCATE staging.raw_311, clean.neighborhood_population, clean.council_district_population;
 
 -- source_year is not in the files, so set it as the column's default before
 -- each load and every row from that file gets the right year.

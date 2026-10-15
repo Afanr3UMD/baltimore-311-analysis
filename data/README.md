@@ -14,6 +14,8 @@ One dataset per calendar year, published by the City of Baltimore on [Open Balti
 
 Downloaded 2026-10-15. Row counts can change slightly if the city updates the data.
 
+**Known gap:** the 2025 file is missing most requests created from 2025-03-31 to 2025-06-01 (about 145,000, judging by the city's request numbers). The cleaning flags these rows; see [data_cleaning_log.md](../data_cleaning_log.md).
+
 ```bash
 cd data/raw
 curl -L -o 311_2023.csv "https://data.baltimorecity.gov/api/download/v1/items/e002bef8e17d44788f0d01025a20127e/csv?layers=0"
@@ -25,9 +27,15 @@ If a file comes back as a few hundred bytes of JSON saying the download "is bein
 
 ## Population (2020 Census)
 
-Both come from public layers on the City of Baltimore's ArcGIS server (owner `baltimore_citistat`).
+Both come from public layers on the City of Baltimore's ArcGIS server (owner `baltimore_citistat`). They are committed, but you can download them again with:
+
+```bash
+python3 scripts/download_population.py
+```
 
 | File | Rows | Source layer | Check |
 |---|---|---|---|
-| `population_neighborhoods_2020.csv` | 279 | Neighborhood Statistical Area (NSA) Boundaries, field `Population` | Sums to 585,682 (2020 Census city total: 585,708) |
-| `population_council_districts_2020.csv` | 14 | Baltimore City Council Districts (updated 2026-04-30), field `totalPop` | Sums to 585,708 |
+| `population_neighborhoods_2020.csv` | 279 | [Neighborhood Statistical Area (NSA) Boundaries](https://services1.arcgis.com/UWYHeuuJISiGmgXx/ArcGIS/rest/services/Neighborhood_Statistical_Area_(NSA)_Boundaries_(1)/FeatureServer/0), fields `Name`, `Population` | Sums to 585,682 (2020 Census city total: 585,708) |
+| `population_council_districts_2020.csv` | 14 | [Baltimore City Council Districts](https://services1.arcgis.com/UWYHeuuJISiGmgXx/ArcGIS/rest/services/Baltimore_City_Council_Districts_UPDATED_04302026_USE_THIS_LAYER/FeatureServer/0) (updated 2026-04-30), fields `AREA_NAME`, `totalPop` | Sums to 585,708 |
+
+**Council districts:** these populations are for the district map drawn after the 2020 Census. The 311 data switched to that map in the 2025 file: the same map point gets a different district 7.05% of the time between 2024 and 2025, against 0.03% between 2023 and 2024. So per-capita rates by council district are only valid for 2025 requests. Neighborhood names are stable across all three years (after the cleaning in step 18).

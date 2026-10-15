@@ -14,6 +14,8 @@
  Run: psql -d baltimore_311 -f sql/01_schema.sql
 */
 
+\set ON_ERROR_STOP on
+
 CREATE SCHEMA IF NOT EXISTS staging;
 CREATE SCHEMA IF NOT EXISTS clean;
 
