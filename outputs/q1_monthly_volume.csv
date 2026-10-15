@@ -1,0 +1,109 @@
+month,year,category,category_order,requests,running_total_in_year,same_month_last_year,pct_change_vs_last_year,data_gap
+2023-01-01,2023,Resident field requests,1,39129,39129,,,false
+2023-01-01,2023,Call center,2,27398,27398,,,false
+2023-01-01,2023,Crew-logged work,3,10457,10457,,,false
+2023-02-01,2023,Resident field requests,1,34476,73605,,,false
+2023-02-01,2023,Call center,2,23279,50677,,,false
+2023-02-01,2023,Crew-logged work,3,10195,20652,,,false
+2023-03-01,2023,Resident field requests,1,41873,115478,,,false
+2023-03-01,2023,Call center,2,25826,76503,,,false
+2023-03-01,2023,Crew-logged work,3,12186,32838,,,false
+2023-04-01,2023,Resident field requests,1,42405,157883,,,false
+2023-04-01,2023,Call center,2,27546,104049,,,false
+2023-04-01,2023,Crew-logged work,3,11491,44329,,,false
+2023-05-01,2023,Resident field requests,1,48749,206632,,,false
+2023-05-01,2023,Call center,2,28711,132760,,,false
+2023-05-01,2023,Crew-logged work,3,12695,57024,,,false
+2023-06-01,2023,Resident field requests,1,44726,251358,,,false
+2023-06-01,2023,Call center,2,29877,162637,,,false
+2023-06-01,2023,Crew-logged work,3,12985,70009,,,false
+2023-07-01,2023,Resident field requests,1,48410,299768,,,false
+2023-07-01,2023,Call center,2,30093,192730,,,false
+2023-07-01,2023,Crew-logged work,3,11436,81445,,,false
+2023-08-01,2023,Resident field requests,1,51037,350805,,,false
+2023-08-01,2023,Call center,2,30946,223676,,,false
+2023-08-01,2023,Crew-logged work,3,13892,95337,,,false
+2023-09-01,2023,Resident field requests,1,43790,394595,,,false
+2023-09-01,2023,Call center,2,31216,254892,,,false
+2023-09-01,2023,Crew-logged work,3,13050,108387,,,false
+2023-10-01,2023,Resident field requests,1,41527,436122,,,false
+2023-10-01,2023,Call center,2,31368,286260,,,false
+2023-10-01,2023,Crew-logged work,3,19253,127640,,,false
+2023-11-01,2023,Resident field requests,1,34657,470779,,,false
+2023-11-01,2023,Call center,2,28603,314863,,,false
+2023-11-01,2023,Crew-logged work,3,16864,144504,,,false
+2023-12-01,2023,Resident field requests,1,34984,505763,,,false
+2023-12-01,2023,Call center,2,26904,341767,,,false
+2023-12-01,2023,Crew-logged work,3,14204,158708,,,false
+2024-01-01,2024,Resident field requests,1,44260,44260,39129,13.11,false
+2024-01-01,2024,Call center,2,34418,34418,27398,25.62,false
+2024-01-01,2024,Crew-logged work,3,12460,12460,10457,19.15,false
+2024-02-01,2024,Resident field requests,1,39077,83337,34476,13.35,false
+2024-02-01,2024,Call center,2,27344,61762,23279,17.46,false
+2024-02-01,2024,Crew-logged work,3,13053,25513,10195,28.03,false
+2024-03-01,2024,Resident field requests,1,39994,123331,41873,-4.49,false
+2024-03-01,2024,Call center,2,28546,90308,25826,10.53,false
+2024-03-01,2024,Crew-logged work,3,12900,38413,12186,5.86,false
+2024-04-01,2024,Resident field requests,1,45448,168779,42405,7.18,false
+2024-04-01,2024,Call center,2,29490,119798,27546,7.06,false
+2024-04-01,2024,Crew-logged work,3,17193,55606,11491,49.62,false
+2024-05-01,2024,Resident field requests,1,48384,217163,48749,-0.75,false
+2024-05-01,2024,Call center,2,30523,150321,28711,6.31,false
+2024-05-01,2024,Crew-logged work,3,18047,73653,12695,42.16,false
+2024-06-01,2024,Resident field requests,1,44993,262156,44726,0.60,false
+2024-06-01,2024,Call center,2,33631,183952,29877,12.56,false
+2024-06-01,2024,Crew-logged work,3,14484,88137,12985,11.54,false
+2024-07-01,2024,Resident field requests,1,46896,309052,48410,-3.13,false
+2024-07-01,2024,Call center,2,35247,219199,30093,17.13,false
+2024-07-01,2024,Crew-logged work,3,14956,103093,11436,30.78,false
+2024-08-01,2024,Resident field requests,1,51563,360615,51037,1.03,false
+2024-08-01,2024,Call center,2,36092,255291,30946,16.63,false
+2024-08-01,2024,Crew-logged work,3,13313,116406,13892,-4.17,false
+2024-09-01,2024,Resident field requests,1,41027,401642,43790,-6.31,false
+2024-09-01,2024,Call center,2,30027,285318,31216,-3.81,false
+2024-09-01,2024,Crew-logged work,3,12527,128933,13050,-4.01,false
+2024-10-01,2024,Resident field requests,1,42290,443932,41527,1.84,false
+2024-10-01,2024,Call center,2,31546,316864,31368,0.57,false
+2024-10-01,2024,Crew-logged work,3,14875,143808,19253,-22.74,false
+2024-11-01,2024,Resident field requests,1,33852,477784,34657,-2.32,false
+2024-11-01,2024,Call center,2,30656,347520,28603,7.18,false
+2024-11-01,2024,Crew-logged work,3,13207,157015,16864,-21.69,false
+2024-12-01,2024,Resident field requests,1,32842,510626,34984,-6.12,false
+2024-12-01,2024,Call center,2,27745,375265,26904,3.13,false
+2024-12-01,2024,Crew-logged work,3,14544,171559,14204,2.39,false
+2025-01-01,2025,Resident field requests,1,44518,44518,44260,0.58,false
+2025-01-01,2025,Call center,2,41271,41271,34418,19.91,false
+2025-01-01,2025,Crew-logged work,3,11717,11717,12460,-5.96,false
+2025-02-01,2025,Resident field requests,1,37984,82502,39077,-2.80,false
+2025-02-01,2025,Call center,2,28931,70202,27344,5.80,false
+2025-02-01,2025,Crew-logged work,3,7905,19622,13053,-39.44,false
+2025-03-01,2025,Resident field requests,1,41685,124187,39994,4.23,false
+2025-03-01,2025,Call center,2,28879,99081,28546,1.17,false
+2025-03-01,2025,Crew-logged work,3,11120,30742,12900,-13.80,false
+2025-04-01,2025,Resident field requests,1,5927,130114,45448,,true
+2025-04-01,2025,Call center,2,4642,103723,29490,,true
+2025-04-01,2025,Crew-logged work,3,2612,33354,17193,,true
+2025-05-01,2025,Resident field requests,1,13738,143852,48384,,true
+2025-05-01,2025,Call center,2,9271,112994,30523,,true
+2025-05-01,2025,Crew-logged work,3,6713,40067,18047,,true
+2025-06-01,2025,Resident field requests,1,49662,193514,44993,10.38,false
+2025-06-01,2025,Call center,2,29302,142296,33631,-12.87,false
+2025-06-01,2025,Crew-logged work,3,12791,52858,14484,-11.69,false
+2025-07-01,2025,Resident field requests,1,52074,245588,46896,11.04,false
+2025-07-01,2025,Call center,2,28663,170959,35247,-18.68,false
+2025-07-01,2025,Crew-logged work,3,15458,68316,14956,3.36,false
+2025-08-01,2025,Resident field requests,1,55341,300929,51563,7.33,false
+2025-08-01,2025,Call center,2,25392,196351,36092,-29.65,false
+2025-08-01,2025,Crew-logged work,3,13675,81991,13313,2.72,false
+2025-09-01,2025,Resident field requests,1,47189,348118,41027,15.02,false
+2025-09-01,2025,Call center,2,27836,224187,30027,-7.30,false
+2025-09-01,2025,Crew-logged work,3,12521,94512,12527,-0.05,false
+2025-10-01,2025,Resident field requests,1,44082,392200,42290,4.24,false
+2025-10-01,2025,Call center,2,30390,254577,31546,-3.66,false
+2025-10-01,2025,Crew-logged work,3,14508,109020,14875,-2.47,false
+2025-11-01,2025,Resident field requests,1,34429,426629,33852,1.70,false
+2025-11-01,2025,Call center,2,25812,280389,30656,-15.80,false
+2025-11-01,2025,Crew-logged work,3,12042,121062,13207,-8.82,false
+2025-12-01,2025,Resident field requests,1,35589,462218,32842,8.36,false
+2025-12-01,2025,Call center,2,28757,309146,27745,3.65,false
+2025-12-01,2025,Crew-logged work,3,13387,134449,14544,-7.96,false

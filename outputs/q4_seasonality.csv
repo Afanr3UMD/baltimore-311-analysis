@@ -1,0 +1,133 @@
+sort_order,volume_rank,request_type,calendar_month,month_name,years_counted,requests_2023,requests_2024,requests_2025,avg_monthly_requests,seasonal_index,month_rank
+1,1,Parking Complaint,1,January,3,2733,2492,2626,2617.00,0.75,12
+2,1,Parking Complaint,2,February,3,2869,2620,3217,2902.00,0.83,11
+3,1,Parking Complaint,3,March,3,3463,2889,4694,3682.00,1.05,4
+4,1,Parking Complaint,4,April,2,3195,2982,,3088.50,0.88,10
+5,1,Parking Complaint,5,May,2,3503,3244,,3373.50,0.96,7
+6,1,Parking Complaint,6,June,3,3291,3113,4329,3577.67,1.02,6
+7,1,Parking Complaint,7,July,3,3228,3125,4692,3681.67,1.05,5
+8,1,Parking Complaint,8,August,3,3486,3182,6043,4237.00,1.21,2
+9,1,Parking Complaint,9,September,3,3186,3259,6459,4301.33,1.23,1
+10,1,Parking Complaint,10,October,3,3251,3276,5839,4122.00,1.18,3
+11,1,Parking Complaint,11,November,3,2903,2593,4443,3313.00,0.95,8
+12,1,Parking Complaint,12,December,3,2373,2922,3987,3094.00,0.88,9
+13,2,Sanitation Property,1,January,3,2307,1733,1130,1723.33,0.51,10
+14,2,Sanitation Property,2,February,3,2136,1790,1605,1843.67,0.55,9
+15,2,Sanitation Property,3,March,3,2603,1900,1786,2096.33,0.63,8
+16,2,Sanitation Property,4,April,2,3421,3282,,3351.50,1.00,6
+17,2,Sanitation Property,5,May,2,6006,5836,,5921.00,1.77,1
+18,2,Sanitation Property,6,June,3,4809,4903,5068,4926.67,1.47,4
+19,2,Sanitation Property,7,July,3,5898,4522,5969,5463.00,1.63,2
+20,2,Sanitation Property,8,August,3,6245,4668,5152,5355.00,1.60,3
+21,2,Sanitation Property,9,September,3,3923,3459,3494,3625.33,1.08,5
+22,2,Sanitation Property,10,October,3,3020,2739,2694,2817.67,0.84,7
+23,2,Sanitation Property,11,November,3,1723,1713,1512,1649.33,0.49,11
+24,2,Sanitation Property,12,December,3,1573,1358,1310,1413.67,0.42,12
+25,3,48 Hour Parking/Abandoned Vehicle,1,January,3,2252,2215,1817,2094.67,1.05,6
+26,3,48 Hour Parking/Abandoned Vehicle,2,February,3,2027,2311,1707,2015.00,1.01,7
+27,3,48 Hour Parking/Abandoned Vehicle,3,March,3,2636,2074,2031,2247.00,1.12,2
+28,3,48 Hour Parking/Abandoned Vehicle,4,April,2,2040,2290,,2165.00,1.08,5
+29,3,48 Hour Parking/Abandoned Vehicle,5,May,2,2315,2505,,2410.00,1.20,1
+30,3,48 Hour Parking/Abandoned Vehicle,6,June,3,2128,2430,2048,2202.00,1.10,3
+31,3,48 Hour Parking/Abandoned Vehicle,7,July,3,2271,2751,1521,2181.00,1.09,4
+32,3,48 Hour Parking/Abandoned Vehicle,8,August,3,2474,2377,818,1889.67,0.94,8
+33,3,48 Hour Parking/Abandoned Vehicle,9,September,3,2219,2293,484,1665.33,0.83,11
+34,3,48 Hour Parking/Abandoned Vehicle,10,October,3,2287,2503,658,1816.00,0.91,10
+35,3,48 Hour Parking/Abandoned Vehicle,11,November,3,2114,1932,555,1533.67,0.77,12
+36,3,48 Hour Parking/Abandoned Vehicle,12,December,3,2657,1943,896,1832.00,0.91,9
+37,4,HGW,1,January,3,67,175,48,96.67,0.05,11
+38,4,HGW,2,February,3,57,156,62,91.67,0.04,12
+39,4,HGW,3,March,3,442,140,88,223.33,0.11,9
+40,4,HGW,4,April,2,2183,3444,,2813.50,1.33,4
+41,4,HGW,5,May,2,4315,5001,,4658.00,2.21,1
+42,4,HGW,6,June,3,2923,3876,4078,3625.67,1.72,3
+43,4,HGW,7,July,3,3928,2431,1884,2747.67,1.30,6
+44,4,HGW,8,August,3,4021,3726,6022,4589.67,2.18,2
+45,4,HGW,9,September,3,2934,2350,3010,2764.67,1.31,5
+46,4,HGW,10,October,3,2973,2311,2637,2640.33,1.25,7
+47,4,HGW,11,November,3,1163,775,677,871.67,0.41,8
+48,4,HGW,12,December,3,364,60,100,174.67,0.08,10
+49,5,Dirty Alley,1,January,3,1854,1915,1250,1673.00,0.97,7
+50,5,Dirty Alley,2,February,3,1528,1956,1475,1653.00,0.96,8
+51,5,Dirty Alley,3,March,3,1881,1634,1616,1710.33,0.99,6
+52,5,Dirty Alley,4,April,2,1453,1593,,1523.00,0.88,11
+53,5,Dirty Alley,5,May,2,1704,1498,,1601.00,0.93,10
+54,5,Dirty Alley,6,June,3,1682,1679,1999,1786.67,1.03,4
+55,5,Dirty Alley,7,July,3,1891,2047,2503,2147.00,1.24,1
+56,5,Dirty Alley,8,August,3,1947,1817,2424,2062.67,1.19,2
+57,5,Dirty Alley,9,September,3,1746,1485,2145,1792.00,1.04,3
+58,5,Dirty Alley,10,October,3,1689,1562,1986,1745.67,1.01,5
+59,5,Dirty Alley,11,November,3,1397,1295,1629,1440.33,0.83,12
+60,5,Dirty Alley,12,December,3,1686,1306,1822,1604.67,0.93,9
+61,6,Bulk Scheduled-Weekday,1,January,3,1612,1448,1401,1487.00,0.95,8
+62,6,Bulk Scheduled-Weekday,2,February,3,1490,1465,1517,1490.67,0.96,7
+63,6,Bulk Scheduled-Weekday,3,March,3,1861,1818,1846,1841.67,1.18,1
+64,6,Bulk Scheduled-Weekday,4,April,2,1818,1708,,1763.00,1.13,2
+65,6,Bulk Scheduled-Weekday,5,May,2,1713,1753,,1733.00,1.11,3
+66,6,Bulk Scheduled-Weekday,6,June,3,1607,1655,1644,1635.33,1.05,5
+67,6,Bulk Scheduled-Weekday,7,July,3,1542,1647,1774,1654.33,1.06,4
+68,6,Bulk Scheduled-Weekday,8,August,3,1708,1543,1651,1634.00,1.05,6
+69,6,Bulk Scheduled-Weekday,9,September,3,1489,1439,1500,1476.00,0.95,9
+70,6,Bulk Scheduled-Weekday,10,October,3,1407,1475,1413,1431.67,0.92,10
+71,6,Bulk Scheduled-Weekday,11,November,3,1276,1195,1233,1234.67,0.79,12
+72,6,Bulk Scheduled-Weekday,12,December,3,1404,1257,1278,1313.00,0.84,11
+73,7,Mixed Refuse,1,January,3,1039,1538,4115,2230.67,1.69,1
+74,7,Mixed Refuse,2,February,3,706,847,1088,880.33,0.67,12
+75,7,Mixed Refuse,3,March,3,818,1028,1017,954.33,0.72,11
+76,7,Mixed Refuse,4,April,2,947,1073,,1010.00,0.76,10
+77,7,Mixed Refuse,5,May,2,881,1188,,1034.50,0.78,9
+78,7,Mixed Refuse,6,June,3,1038,1359,2024,1473.67,1.11,4
+79,7,Mixed Refuse,7,July,3,1319,1648,2304,1757.00,1.33,3
+80,7,Mixed Refuse,8,August,3,1373,2321,1886,1860.00,1.41,2
+81,7,Mixed Refuse,9,September,3,1035,1331,1602,1322.67,1.00,5
+82,7,Mixed Refuse,10,October,3,878,1042,1506,1142.00,0.86,6
+83,7,Mixed Refuse,11,November,3,980,1109,1267,1118.67,0.85,7
+84,7,Mixed Refuse,12,December,3,956,1066,1278,1100.00,0.83,8
+85,8,City Trash Can or Recycling Cart Concern,1,January,3,1005,1153,1289,1149.00,0.85,12
+86,8,City Trash Can or Recycling Cart Concern,2,February,3,952,1231,1285,1156.00,0.85,11
+87,8,City Trash Can or Recycling Cart Concern,3,March,3,1224,1398,1423,1348.33,0.99,8
+88,8,City Trash Can or Recycling Cart Concern,4,April,2,1272,1542,,1407.00,1.04,5
+89,8,City Trash Can or Recycling Cart Concern,5,May,2,1328,1471,,1399.50,1.03,7
+90,8,City Trash Can or Recycling Cart Concern,6,June,3,1383,1386,1494,1421.00,1.05,3
+91,8,City Trash Can or Recycling Cart Concern,7,July,3,1420,1668,1726,1604.67,1.18,2
+92,8,City Trash Can or Recycling Cart Concern,8,August,3,1475,1665,1690,1610.00,1.18,1
+93,8,City Trash Can or Recycling Cart Concern,9,September,3,1327,1414,1511,1417.33,1.04,4
+94,8,City Trash Can or Recycling Cart Concern,10,October,3,1338,1400,1479,1405.67,1.03,6
+95,8,City Trash Can or Recycling Cart Concern,11,November,3,1110,1145,1254,1169.67,0.86,10
+96,8,City Trash Can or Recycling Cart Concern,12,December,3,1076,1203,1368,1215.67,0.89,9
+97,9,Dirty Street,1,January,3,1702,1999,756,1485.67,1.09,4
+98,9,Dirty Street,2,February,3,1690,2125,989,1601.33,1.17,2
+99,9,Dirty Street,3,March,3,1951,1959,977,1629.00,1.19,1
+100,9,Dirty Street,4,April,2,1757,1438,,1597.50,1.17,3
+101,9,Dirty Street,5,May,2,1455,1141,,1298.00,0.95,8
+102,9,Dirty Street,6,June,3,1702,1071,1263,1345.33,0.99,7
+103,9,Dirty Street,7,July,3,1548,1123,1715,1462.00,1.07,6
+104,9,Dirty Street,8,August,3,1720,965,1768,1484.33,1.09,5
+105,9,Dirty Street,9,September,3,1429,890,1393,1237.33,0.91,9
+106,9,Dirty Street,10,October,3,1166,995,1192,1117.67,0.82,11
+107,9,Dirty Street,11,November,3,927,864,1121,970.67,0.71,12
+108,9,Dirty Street,12,December,3,1489,854,1101,1148.00,0.84,10
+109,10,Illegal Dumping,1,January,3,1298,1171,1000,1156.33,0.96,9
+110,10,Illegal Dumping,2,February,3,1043,1259,1181,1161.00,0.97,8
+111,10,Illegal Dumping,3,March,3,1333,1361,1658,1450.67,1.21,1
+112,10,Illegal Dumping,4,April,2,1204,1325,,1264.50,1.05,5
+113,10,Illegal Dumping,5,May,2,1335,1197,,1266.00,1.06,4
+114,10,Illegal Dumping,6,June,3,1300,1306,704,1103.33,0.92,10
+115,10,Illegal Dumping,7,July,3,1417,1533,909,1286.33,1.07,3
+116,10,Illegal Dumping,8,August,3,1554,1447,984,1328.33,1.11,2
+117,10,Illegal Dumping,9,September,3,1318,1298,903,1173.00,0.98,7
+118,10,Illegal Dumping,10,October,3,1315,1492,735,1180.67,0.98,6
+119,10,Illegal Dumping,11,November,3,1126,1363,556,1015.00,0.85,11
+120,10,Illegal Dumping,12,December,3,1117,1326,601,1014.67,0.85,12
+121,18,Potholes,1,January,3,515,924,520,653.00,1.03,5
+122,18,Potholes,2,February,3,437,1116,1333,962.00,1.51,2
+123,18,Potholes,3,March,3,614,1471,949,1011.33,1.59,1
+124,18,Potholes,4,April,2,587,1329,,958.00,1.50,3
+125,18,Potholes,5,May,2,605,754,,679.50,1.07,4
+126,18,Potholes,6,June,3,489,472,920,627.00,0.98,7
+127,18,Potholes,7,July,3,474,459,956,629.67,0.99,6
+128,18,Potholes,8,August,3,453,401,689,514.33,0.81,9
+129,18,Potholes,9,September,3,399,334,935,556.00,0.87,8
+130,18,Potholes,10,October,3,332,393,612,445.67,0.70,10
+131,18,Potholes,11,November,3,283,222,250,251.67,0.40,12
+132,18,Potholes,12,December,3,422,276,355,351.00,0.55,11

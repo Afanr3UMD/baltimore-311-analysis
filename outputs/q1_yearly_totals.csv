@@ -1,0 +1,10 @@
+year,category,category_order,requests_full_year,requests_comparable_months,previous_year_requests_comparable,change,pct_change,includes_data_gap
+2023,Resident field requests,1,505763,414609,,,,false
+2024,Resident field requests,1,510626,416794,414609,2185,0.53,false
+2025,Resident field requests,1,462218,442553,416794,25759,6.18,true
+2023,Call center,2,341767,285510,,,,false
+2024,Call center,2,375265,315252,285510,29742,10.42,false
+2025,Call center,2,309146,295233,315252,-20019,-6.35,true
+2023,Crew-logged work,3,158708,134522,,,,false
+2024,Crew-logged work,3,171559,136319,134522,1797,1.34,false
+2025,Crew-logged work,3,134449,125124,136319,-11195,-8.21,true

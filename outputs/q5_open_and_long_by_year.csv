@@ -1,0 +1,4 @@
+sort_order,year,open_set_requests,still_open,pct_still_open,resolved_requests,excluded_no_baseline,resolved_with_baseline,long_requests,pct_long,pct_long_points_vs_2023
+1,2023,455120,9086,2.00,445079,2740,442339,44046,9.96,0.00
+2,2024,456596,9185,2.01,445130,5156,439974,75430,17.14,7.19
+3,2025,398323,7851,1.97,389007,10832,378175,95280,25.19,15.24

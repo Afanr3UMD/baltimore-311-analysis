@@ -39,3 +39,7 @@ python3 scripts/download_population.py
 | `population_council_districts_2020.csv` | 14 | [Baltimore City Council Districts](https://services1.arcgis.com/UWYHeuuJISiGmgXx/ArcGIS/rest/services/Baltimore_City_Council_Districts_UPDATED_04302026_USE_THIS_LAYER/FeatureServer/0) (updated 2026-04-30), fields `AREA_NAME`, `totalPop` | Sums to 585,708 |
 
 **Council districts:** these populations are for the district map drawn after the 2020 Census. The 311 data switched to that map in the 2025 file: the same map point gets a different district 7.05% of the time between 2024 and 2025, against 0.03% between 2023 and 2024. So per-capita rates by council district are only valid for 2025 requests. Neighborhood names are stable across all three years (after the cleaning in step 18).
+
+## Boundaries (for the Tableau maps)
+
+[`scripts/download_boundaries.py`](../scripts/download_boundaries.py) saves the neighborhood and council district shapes from the same two layers as GeoJSON in `outputs/`, simplified to about 5 meters. They are committed, so the maps work without downloading anything. Each shape carries the same name as the matching CSV column (`neighborhood`, `council_district`).

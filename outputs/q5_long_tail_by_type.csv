@@ -1,0 +1,144 @@
+sort_order,long_tail_rank,request_type,is_pooled_row,types_in_row,long_requests,total_resolved,pct_of_type_long,share_of_all_long,cumulative_share_of_all_long,citywide_p90_days
+1,1,HGW,false,1,12305,68407,17.99,9.62,9.62,27.18
+2,2,Water Leak (Exterior),false,1,9906,33158,29.88,7.75,17.37,27.18
+3,3,Parking Complaint,false,1,9484,118051,8.03,7.42,24.78,27.18
+4,4,48 Hour Parking/Abandoned Vehicle,false,1,5829,58782,9.92,4.56,29.34,27.18
+5,5,City Trash Can or Recycling Cart Concern,false,1,5735,45649,12.56,4.48,33.82,27.18
+6,6,StLight(s) Out,false,1,5707,35407,16.12,4.46,38.29,27.18
+7,7,Tree Inspection,false,1,5331,11315,47.11,4.17,42.45,27.18
+8,8,Cleaning,false,1,3421,20476,16.71,2.67,45.13,27.18
+9,9,Refunds,false,1,3340,4262,78.37,2.61,47.74,27.18
+10,10,Sanitation Property,false,1,3317,110969,2.99,2.59,50.33,27.18
+11,11,Street Repairs,false,1,2870,4054,70.79,2.24,52.58,27.18
+12,12,City Trash Can or Recycling Cart Lost or Stolen,false,1,2778,26792,10.37,2.17,54.75,27.18
+13,13,Sign Damaged/Sign Structure,false,1,2639,9358,28.20,2.06,56.81,27.18
+14,14,Down Tree,false,1,2536,7402,34.26,1.98,58.80,27.18
+15,15,Fire Code Inspection Request,false,1,2498,10204,24.48,1.95,60.75,27.18
+16,16,Building Maintenance,false,1,2456,4472,54.92,1.92,62.67,27.18
+17,17,Fallen Limb,false,1,2113,6726,31.42,1.65,64.32,27.18
+18,18,Water No Water,false,1,1889,17502,10.79,1.48,65.80,27.18
+19,19,Footways Repair,false,1,1750,3745,46.73,1.37,67.17,27.18
+20,20,Traffic Calming,false,1,1603,2073,77.33,1.25,68.42,27.18
+21,21,Escalation,false,1,1340,3159,42.42,1.05,69.47,27.18
+22,22,Grass Mowing,false,1,1303,3411,38.20,1.02,70.49,27.18
+23,23,Sewer Water In Basement,false,1,1279,17019,7.52,1.00,71.49,27.18
+24,24,Personal Property Tax,false,1,1229,2002,61.39,0.96,72.45,27.18
+25,25,Traffic Sign Request,false,1,1122,1992,56.33,0.88,73.32,27.18
+26,26,New Traffic Sign,false,1,1089,1742,62.51,0.85,74.18,27.18
+27,27,Tree Maintenance,false,1,989,3628,27.26,0.77,74.95,27.18
+28,28,Payments,false,1,952,2824,33.71,0.74,75.69,27.18
+29,29,Vehicle Removal,false,1,944,12909,7.31,0.74,76.43,27.18
+30,30,Sewer Misc Investigation,false,1,934,6453,14.47,0.73,77.16,27.18
+31,31,Zoning Investigation,false,1,859,2579,33.31,0.67,77.83,27.18
+32,32,Stolen Vehicle/Tags,false,1,827,1293,63.96,0.65,78.48,27.18
+33,33,Signal Timing,false,1,766,1088,70.40,0.60,79.08,27.18
+34,34,Parking Fines Refunds,false,1,747,1928,38.74,0.58,79.66,27.18
+35,35,Park Maintenance,false,1,741,4109,18.03,0.58,80.24,27.18
+36,36,Other,false,1,737,2139,34.46,0.58,80.82,27.18
+37,37,StLight Pole Installation,false,1,714,1580,45.19,0.56,81.38,27.18
+38,38,Water Meter Cover Missing or Damaged,false,1,703,5916,11.88,0.55,81.93,27.18
+39,39,Transfer of Liability,false,1,698,1041,67.05,0.55,82.47,27.18
+40,40,Footways Complaint,false,1,694,4182,16.59,0.54,83.01,27.18
+41,41,C-Order Damage,false,1,658,1987,33.12,0.51,83.53,27.18
+42,42,Metered Water,false,1,652,873,74.68,0.51,84.04,27.18
+43,43,Surface Repair,false,1,586,598,97.99,0.46,84.50,27.18
+44,44,Water Meter Leak,false,1,581,3928,14.79,0.45,84.95,27.18
+45,45,Alleys,false,1,573,664,86.30,0.45,85.40,27.18
+46,46,Curb Repair,false,1,563,676,83.28,0.44,85.84,27.18
+47,47,Trees and Shrubs,false,1,537,9029,5.95,0.42,86.26,27.18
+48,48,Storm Damaged Inlet,false,1,516,1190,43.36,0.40,86.66,27.18
+49,49,Abandoned Vehicle,false,1,507,7378,6.87,0.40,87.06,27.18
+50,50,Traffic Signal Repairs,false,1,496,14932,3.32,0.39,87.45,27.18
+51,51,Water Low Pressure,false,1,495,5460,9.07,0.39,87.83,27.18
+52,52,Storm Inlet Choke,false,1,487,3918,12.43,0.38,88.21,27.18
+53,53,Water Water In Basement,false,1,480,4768,10.07,0.38,88.59,27.18
+54,54,Street Lighting Repairs,false,1,475,700,67.86,0.37,88.96,27.18
+55,55,Maintenance Structure,false,1,464,17073,2.72,0.36,89.32,27.18
+56,56,Illegal Signs on Public Property,false,1,436,579,75.30,0.34,89.67,27.18
+57,57,Paid Wrong Account/Misapplied Payment,false,1,431,628,68.63,0.34,90.00,27.18
+58,58,Broken Branch in Tree,false,1,411,1151,35.71,0.32,90.32,27.18
+59,59,Flex posts,false,1,391,605,64.63,0.31,90.63,27.18
+60,60,Storm Flooded Street,false,1,365,1392,26.22,0.29,90.91,27.18
+61,61,Saltbox Concern,false,1,363,1454,24.97,0.28,91.20,27.18
+62,62,StLighting Inadequate/Too Bright,false,1,359,1319,27.22,0.28,91.48,27.18
+63,63,Playgrounds,false,1,335,813,41.21,0.26,91.74,27.18
+64,64,Vacant Building,false,1,323,25675,1.26,0.25,91.99,27.18
+65,65,StLight(s) Out Rear,false,1,310,2669,11.61,0.24,92.24,27.18
+66,66,Sewer Overflow,false,1,298,1959,15.21,0.23,92.47,27.18
+67,67,Hydrant Leaking,false,1,295,1028,28.70,0.23,92.70,27.18
+68,68,Makes Differ,false,1,285,949,30.03,0.22,92.92,27.18
+69,68,Trial Request-Parking,false,1,285,5666,5.03,0.22,93.15,27.18
+70,70,Parking Away Notification,false,1,268,744,36.02,0.21,93.35,27.18
+71,71,Public (Corner) Trash Can Request/Removal,false,1,265,1069,24.79,0.21,93.56,27.18
+72,72,Trial Request-Red Light,false,1,261,4056,6.43,0.20,93.77,27.18
+73,73,Illegal Dumping,false,1,255,18119,1.41,0.20,93.97,27.18
+74,74,EV Noise,false,1,242,4069,5.95,0.19,94.15,27.18
+75,75,Hydrant Damaged,false,1,219,876,25.00,0.17,94.33,27.18
+76,76,Rodents,false,1,180,6467,2.78,0.14,94.47,27.18
+77,77,Storm Misc Investigation,false,1,179,1076,16.64,0.14,94.61,27.18
+78,78,StLighting Cable Faults,false,1,166,2575,6.45,0.13,94.74,27.18
+79,79,SIU Clean Up (HCD USE ONLY),false,1,139,19648,0.71,0.11,94.85,27.18
+80,80,Conduit Investigation,false,1,114,3650,3.12,0.09,94.93,27.18
+81,80,Right-Of-Way Permit,false,1,114,1056,10.80,0.09,95.02,27.18
+82,82,Ombudsman Review,false,1,113,1611,7.01,0.09,95.11,27.18
+83,83,Residential Reserved Disabled Parking Request,false,1,107,1073,9.97,0.08,95.20,27.18
+84,84,Graffiti Removal,false,1,103,7957,1.29,0.08,95.28,27.18
+85,85,Red Light/Speed/Truck Camera,false,1,101,829,12.18,0.08,95.35,27.18
+86,86,CCE Building Permit Complaint,false,1,90,6708,1.34,0.07,95.43,27.18
+87,87,Grass Cutting,false,1,84,564,14.89,0.07,95.49,27.18
+88,88,Graffiti,false,1,83,3081,2.69,0.06,95.56,27.18
+89,89,Water Turn Off (Request),false,1,78,3037,2.57,0.06,95.62,27.18
+90,90,Illegal Sign Removal,false,1,75,878,8.54,0.06,95.68,27.18
+91,91,Dirty Alley,false,1,74,58613,0.13,0.06,95.73,27.18
+92,91,Hydrant Open,false,1,74,1431,5.17,0.06,95.79,27.18
+93,93,Systems,false,1,73,3501,2.09,0.06,95.85,27.18
+94,94,Certified Mail,false,1,68,517,13.15,0.05,95.90,27.18
+95,95,Dirty Street,false,1,63,44956,0.14,0.05,95.95,27.18
+96,95,Insects,false,1,63,1301,4.84,0.05,96.00,27.18
+97,97,EV Odor,false,1,53,1019,5.20,0.04,96.04,27.18
+98,98,Water Discolored,false,1,46,3830,1.20,0.04,96.08,27.18
+99,99,Saltbox Refill,false,1,35,605,5.79,0.03,96.10,27.18
+100,100,Homeless Outreach,false,1,33,2075,1.59,0.03,96.13,27.18
+101,101,Potholes,false,1,30,20736,0.14,0.02,96.15,27.18
+102,102,Overcrowding,false,1,28,1099,2.55,0.02,96.18,27.18
+103,103,Water Turn On (Request),false,1,27,1470,1.84,0.02,96.20,27.18
+104,104,Trial Request-Speed Citation,false,1,25,2633,0.95,0.02,96.22,27.18
+105,105,CCE Building Inspections,false,1,20,923,2.17,0.02,96.23,27.18
+106,106,Barricades-Removal,false,1,17,713,2.38,0.01,96.25,27.18
+107,107,Debris In Roadway,false,1,14,4212,0.33,0.01,96.26,27.18
+108,108,Inappropriate use of Recycling Bins,false,1,12,2286,0.52,0.01,96.27,27.18
+109,109,StLight Pole Access Cover/Plate Missing,false,1,10,520,1.92,0.01,96.27,27.18
+110,110,Barricades-Install,false,1,9,622,1.45,0.01,96.28,27.18
+111,111,Street Light Out,false,1,8,2305,0.35,0.01,96.29,27.18
+112,112,StLight Damaged/Knocked Down/Rusted,false,1,6,1805,0.33,0.00,96.29,27.18
+113,113,Mechanical Street Sweeping,false,1,5,4639,0.11,0.00,96.30,27.18
+114,114,Animal Inspection/Follow-up,false,1,3,5613,0.05,0.00,96.30,27.18
+115,114,Fire Smoke Alarm Installation Request,false,1,3,6060,0.05,0.00,96.30,27.18
+116,114,Rat Rubout,false,1,3,12968,0.02,0.00,96.30,27.18
+117,114,Water Odor/Bad Taste,false,1,3,1155,0.26,0.00,96.30,27.18
+118,118,Food Facility Complaint,false,1,2,2267,0.09,0.00,96.31,27.18
+119,118,Liquor License Complaint,false,1,2,2679,0.07,0.00,96.31,27.18
+120,118,Snow/Icy Conditions,false,1,2,5024,0.04,0.00,96.31,27.18
+121,118,Trash Can/Recycling Container Complaint,false,1,2,3635,0.06,0.00,96.31,27.18
+122,122,Animal Barking Dog,false,1,1,3948,0.03,0.00,96.31,27.18
+123,122,Animal In Danger/Injured/Abused/Neglected,false,1,1,19488,0.01,0.00,96.31,27.18
+124,122,Animal Unsanitary Conditions,false,1,1,2897,0.03,0.00,96.31,27.18
+125,122,Animal Wildlife Complaint,false,1,1,5331,0.02,0.00,96.31,27.18
+126,122,Bulk Special,false,1,1,1971,0.05,0.00,96.32,27.18
+127,122,Mixed Refuse,false,1,1,44725,0.00,0.00,96.32,27.18
+128,122,Snow and Ice on Sidewalks,false,1,1,1565,0.06,0.00,96.32,27.18
+129,129,Abandoned Vehicle Turn-in Program,false,1,0,556,0.00,0.00,96.32,27.18
+130,129,Animal Aggressive Animal,false,1,0,6146,0.00,0.00,96.32,27.18
+131,129,Animal Attack Against Human,false,1,0,781,0.00,0.00,96.32,27.18
+132,129,Animal Dead Animal Pickup-Wildlife or Stray,false,1,0,8786,0.00,0.00,96.32,27.18
+133,129,"Animal Failure to Restrain Animal, Known Owner/Known Address",false,1,0,2671,0.00,0.00,96.32,27.18
+134,129,Animal Police/Fire/Sheriff/City Work Crew Standby,false,1,0,2057,0.00,0.00,96.32,27.18
+135,129,Animal Stray Held,false,1,0,4232,0.00,0.00,96.32,27.18
+136,129,Animal Trapped In Vacant Building,false,1,0,985,0.00,0.00,96.32,27.18
+137,129,Boarding,false,1,0,13684,0.00,0.00,96.32,27.18
+138,129,LIME Scooter & E-Bike Complaint,false,1,0,515,0.00,0.00,96.32,27.18
+139,129,Park Cans,false,1,0,1439,0.00,0.00,96.32,27.18
+140,129,Pay by License Plate Meter Complaints,false,1,0,709,0.00,0.00,96.32,27.18
+141,129,Public (Corner) Trash Can Issue,false,1,0,9846,0.00,0.00,96.32,27.18
+142,129,Recycling,false,1,0,37568,0.00,0.00,96.32,27.18
+143,,All other types (fewer than 500 closed requests each),true,133,4711,20102,23.44,3.68,100.00,27.18

@@ -1,0 +1,143 @@
+rank_slowest,request_type,main_agency,resolved_requests,median_days,avg_days,p90_days,avg_to_median_ratio,pct_closed_within_7_days,pct_still_open,division_code_count
+1,Surface Repair,Water Wastewater,598,213.17,227.42,337.33,1.07,1.34,26.17,1
+2,Curb Repair,Transportation,676,134.28,181.42,430.65,1.35,5.92,69.49,1
+3,Alleys,Transportation,664,129.32,202.39,480.38,1.57,6.33,48.29,1
+4,Refunds,Finance,4262,127.29,149.41,331.05,1.17,14.31,3.66,2
+5,Traffic Calming,Transportation,2073,117.15,171.97,442.91,1.47,12.35,48.81,1
+6,Metered Water,Finance,873,110.34,152.98,361.69,1.39,15.92,7.72,1
+7,Illegal Signs on Public Property,Housing,579,106.80,184.19,569.84,1.72,7.08,60.53,1
+8,Signal Timing,Transportation,1088,81.04,139.27,357.75,1.72,14.71,19.47,1
+9,New Traffic Sign,Transportation,1742,78.39,125.20,317.84,1.60,26.35,31.39,1
+10,Street Repairs,Transportation,4054,77.96,117.77,291.67,1.51,16.43,32.36,1
+11,Street Lighting Repairs,Recreation & Parks,700,77.32,113.03,292.01,1.46,18.71,16.27,1
+12,Paid Wrong Account/Misapplied Payment,Finance,628,70.75,103.75,236.41,1.47,17.83,9.38,2
+13,Traffic Sign Request,Transportation,1992,57.73,120.26,312.13,2.08,29.22,35.87,1
+14,Transfer of Liability,Finance,1041,45.95,65.74,181.73,1.43,14.22,0.00,1
+15,Flex posts,Transportation,605,45.23,67.20,155.54,1.49,11.24,20.50,2
+16,Personal Property Tax,Finance,2002,37.29,48.28,88.93,1.30,13.09,0.00,1
+17,Stolen Vehicle/Tags,Finance,1293,36.89,40.59,75.95,1.10,15.70,0.08,1
+18,Building Maintenance,Recreation & Parks,4472,35.03,82.08,238.91,2.34,21.91,5.26,1
+19,Tree Inspection,Recreation & Parks,11315,23.00,93.58,350.78,4.07,30.54,17.91,1
+20,Footways Repair,Transportation,3745,21.29,76.63,252.59,3.60,33.19,0.98,1
+21,Parking Away Notification,Transportation,744,21.16,46.17,153.55,2.18,5.11,0.00,1
+22,Makes Differ,Finance,949,20.04,22.41,40.04,1.12,23.39,0.00,1
+23,Parking Fines Refunds,Finance,1928,19.49,37.26,72.25,1.91,32.62,0.57,1
+24,Zoning Investigation,Housing,2579,19.15,28.48,52.30,1.49,10.70,1.26,1
+25,Grass Mowing,Transportation,3411,18.87,34.88,87.43,1.85,24.54,0.03,1
+26,Payments,Finance,2824,17.71,21.19,43.87,1.20,29.99,0.00,1
+27,Playgrounds,Recreation & Parks,813,16.88,71.51,233.67,4.24,37.52,4.46,1
+28,Storm Damaged Inlet,Water Wastewater,1190,16.35,62.07,210.11,3.80,39.08,0.58,1
+29,Other,Finance,2139,14.95,40.81,120.06,2.73,34.69,0.28,3
+30,Escalation,Transportation,3159,14.21,63.93,209.73,4.50,42.51,7.01,1
+31,Ombudsman Review,Transportation,1611,14.18,15.08,24.44,1.06,19.74,0.00,2
+32,Fire Code Inspection Request,Fire Department,10204,13.95,29.90,63.98,2.14,29.06,11.84,1
+33,City Trash Can or Recycling Cart Concern,Solid Waste,45649,13.90,22.25,31.24,1.60,11.21,0.00,1
+34,Saltbox Concern,Transportation,1454,13.08,23.62,43.13,1.81,33.36,0.27,1
+35,City Trash Can or Recycling Cart Lost or Stolen,Solid Waste,26792,12.73,20.70,27.91,1.63,11.04,0.00,1
+36,SIU Clean Up (HCD USE ONLY),Solid Waste,19648,9.90,10.93,17.24,1.10,31.63,0.00,1
+37,Park Maintenance,Recreation & Parks,4109,9.28,22.33,45.31,2.41,40.23,0.27,1
+38,StLighting Cable Faults,BGE,2575,9.13,19.46,21.28,2.13,35.81,0.39,1
+39,Cleaning,Solid Waste,20476,9.09,13.64,33.80,1.50,41.12,0.00,1
+40,Broken Branch in Tree,Recreation & Parks,1151,9.03,42.21,114.46,4.67,45.53,0.78,1
+41,Grass Cutting,Recreation & Parks,564,8.34,15.10,34.03,1.81,43.79,0.00,1
+42,48 Hour Parking/Abandoned Vehicle,Transportation,58782,8.18,13.33,27.12,1.63,40.41,0.00,1
+43,StLight Pole Installation,BGE,1580,7.05,91.94,305.11,13.05,49.94,19.51,1
+44,Abandoned Vehicle,Housing,7378,6.24,11.08,21.15,1.78,53.61,0.00,1
+45,Saltbox Refill,Transportation,605,6.12,10.20,21.72,1.67,54.21,0.00,1
+46,EV Odor,Health,1019,5.97,9.51,25.09,1.59,56.04,0.38,1
+47,Sign Damaged/Sign Structure,Transportation,9358,5.93,48.40,170.59,8.16,53.37,5.20,2
+48,Trees and Shrubs,Housing,9029,5.92,9.96,18.98,1.68,56.54,0.00,1
+49,Vehicle Removal,Transportation,12909,5.90,10.81,22.26,1.83,56.08,0.02,1
+50,Insects,Housing,1301,5.89,9.14,17.08,1.55,57.26,0.00,1
+51,Right-Of-Way Permit,Transportation,1056,5.80,29.46,31.45,5.08,60.98,0.75,1
+52,StLighting Inadequate/Too Bright,Transportation,1319,5.75,63.11,258.07,10.98,55.57,12.84,1
+53,Fallen Limb,Recreation & Parks,6726,5.58,40.50,115.87,7.27,55.55,0.36,1
+54,Graffiti,Housing,3081,5.21,7.94,16.57,1.52,61.47,0.00,1
+55,Tree Maintenance,Recreation & Parks,3628,5.13,56.15,234.42,10.94,55.40,7.71,1
+56,Rodents,Housing,6467,5.12,7.83,15.90,1.53,60.97,0.00,1
+57,CCE Building Inspections,Housing,923,5.05,6.96,15.84,1.38,64.90,0.00,1
+58,Public (Corner) Trash Can Request/Removal,Solid Waste,1069,5.04,35.52,112.00,7.05,56.78,0.00,1
+59,Hydrant Damaged,Water Wastewater,876,5.02,33.70,117.50,6.72,57.08,0.23,1
+60,Down Tree,Recreation & Parks,7402,4.99,44.18,124.73,8.85,53.31,0.13,1
+61,Maintenance Structure,Housing,17073,4.90,7.52,15.31,1.53,63.46,0.00,1
+61,Systems,Housing,3501,4.90,7.47,17.98,1.52,63.87,0.00,1
+63,Sanitation Property,Housing,110969,4.86,7.10,13.14,1.46,68.02,0.00,1
+64,CCE Building Permit Complaint,Housing,6708,4.74,6.02,12.99,1.27,71.24,0.00,1
+65,EV Noise,Health,4069,4.62,9.26,25.96,2.00,58.32,0.14,1
+66,Illegal Dumping,Housing,18119,4.51,5.98,7.15,1.33,88.22,0.00,1
+67,Inappropriate use of Recycling Bins,Solid Waste,2286,4.24,6.46,14.69,1.52,62.20,0.00,1
+68,Overcrowding,Housing,1099,4.20,7.07,15.16,1.68,68.43,0.00,1
+69,Trial Request-Red Light,Finance,4056,4.17,8.43,21.47,2.02,60.72,0.00,1
+70,Vacant Building,Housing,25675,4.14,6.51,15.02,1.57,67.44,0.00,1
+71,Food Facility Complaint,Health,2267,4.01,4.55,8.99,1.13,76.97,0.09,1
+72,Hydrant Leaking,Water Wastewater,1028,3.97,36.89,125.30,9.29,58.56,0.19,1
+73,Storm Inlet Choke,Water Wastewater,3918,3.89,15.07,36.27,3.87,66.08,0.10,1
+74,HGW,Solid Waste,68407,3.70,11.41,34.91,3.08,55.17,0.00,1
+75,Trial Request-Parking,Finance,5666,3.64,7.20,16.02,1.98,76.74,0.00,1
+76,Footways Complaint,Transportation,4182,3.60,41.15,111.51,11.43,67.00,41.38,1
+77,Homeless Outreach,Mayor's Office,2075,3.58,6.61,14.92,1.85,70.55,1.47,1
+78,Water Leak (Exterior),Water Wastewater,33158,3.53,33.77,112.43,9.57,56.18,0.57,1
+79,Snow and Ice on Sidewalks,Housing,1565,3.43,4.21,7.42,1.23,87.67,0.00,1
+80,Storm Flooded Street,Water Wastewater,1392,3.28,29.63,96.71,9.03,57.54,0.43,1
+81,C-Order Damage,BGE,1987,3.18,69.24,291.20,21.77,54.76,9.39,1
+82,Red Light/Speed/Truck Camera,Transportation,829,3.09,19.49,43.88,6.31,75.03,0.00,1
+83,Dirty Alley,Solid Waste,58613,2.96,4.04,9.00,1.37,82.42,0.00,1
+84,Certified Mail,Finance,517,2.89,10.89,30.34,3.77,70.02,0.00,1
+85,Boarding,Solid Waste,13684,2.70,3.06,5.96,1.13,95.89,0.00,1
+86,Trial Request-Speed Citation,Finance,2633,2.22,4.74,12.00,2.13,76.68,0.00,1
+87,Dirty Street,Solid Waste,44956,2.18,3.58,8.22,1.64,85.57,0.00,1
+88,Water Meter Leak,Water Wastewater,3928,2.11,15.72,46.97,7.45,71.54,0.38,1
+89,Illegal Sign Removal,Transportation,878,2.01,11.98,21.13,5.96,78.47,0.45,1
+90,Water Meter Cover Missing or Damaged,Water Wastewater,5916,1.87,14.76,36.44,7.90,75.32,0.37,1
+91,Graffiti Removal,Solid Waste,7957,1.80,5.57,8.43,3.09,86.58,0.52,2
+92,Bulk Special,Solid Waste,1971,1.35,1.87,3.50,1.39,99.75,0.00,1
+93,StLight Pole Access Cover/Plate Missing,Transportation,520,1.30,6.26,6.81,4.81,93.85,0.00,1
+94,Rat Rubout,Solid Waste,12968,1.28,2.00,3.87,1.56,99.40,0.00,1
+95,StLight(s) Out,BGE,35407,1.21,32.46,82.05,26.83,73.67,1.14,1
+96,StLight Damaged/Knocked Down/Rusted,Transportation,1805,1.17,1.97,3.80,1.68,97.78,0.00,1
+97,Barricades-Removal,Transportation,713,1.13,4.97,3.54,4.40,95.09,0.83,1
+98,Storm Misc Investigation,Water Wastewater,1076,1.07,21.83,69.64,20.41,71.47,1.28,1
+99,Potholes,Transportation,20736,1.01,1.71,3.24,1.69,98.63,0.00,1
+100,Street Light Out,Transportation,2305,0.98,2.09,3.62,2.13,97.83,0.00,1
+101,Water Odor/Bad Taste,Water Wastewater,1155,0.97,1.93,3.87,1.99,99.13,0.17,1
+102,Pay by License Plate Meter Complaints,Parking Authority,709,0.96,1.53,3.79,1.59,99.58,0.28,1
+103,Mechanical Street Sweeping,Solid Waste,4639,0.90,1.51,2.93,1.68,99.46,0.00,1
+104,Animal Inspection/Follow-up,Health,5613,0.88,1.76,4.34,2.00,95.14,0.16,1
+105,Park Cans,Solid Waste,1439,0.81,0.85,1.51,1.04,99.79,0.00,1
+106,Recycling,Solid Waste,37568,0.72,0.85,1.84,1.18,99.64,0.00,1
+107,Abandoned Vehicle Turn-in Program,Transportation,556,0.71,1.14,2.96,1.60,99.28,0.00,1
+107,StLight(s) Out Rear,BGE,2669,0.71,27.38,51.68,38.56,84.68,0.63,1
+109,Residential Reserved Disabled Parking Request,Parking Authority,1073,0.67,17.47,26.78,26.07,87.88,2.37,1
+110,Mixed Refuse,Solid Waste,44725,0.65,0.79,1.83,1.22,99.81,0.00,1
+110,Snow/Icy Conditions,Transportation,5024,0.65,1.11,2.62,1.71,99.52,0.00,1
+112,Trash Can/Recycling Container Complaint,Solid Waste,3635,0.55,1.06,2.80,1.92,98.18,0.00,1
+113,Public (Corner) Trash Can Issue,Solid Waste,9846,0.53,0.60,1.07,1.14,99.94,0.00,1
+114,Animal Trapped In Vacant Building,Health,985,0.48,0.83,2.12,1.74,99.39,0.00,1
+115,Sewer Water In Basement,Water Wastewater,17019,0.47,8.06,14.23,17.14,86.82,0.21,1
+116,Sewer Misc Investigation,Water Wastewater,6453,0.46,17.29,53.44,37.59,77.81,0.43,1
+117,Sewer Overflow,Water Wastewater,1959,0.45,15.80,52.77,35.11,74.07,0.51,1
+117,Water Low Pressure,Water Wastewater,5460,0.45,10.67,21.81,23.72,84.25,0.53,1
+119,LIME Scooter & E-Bike Complaint,Transportation,515,0.42,0.78,2.08,1.87,99.81,0.00,1
+120,Animal Dead Animal Pickup-Wildlife or Stray,Health,8786,0.36,0.96,2.60,2.70,98.76,0.01,1
+121,Traffic Signal Repairs,Transportation,14932,0.35,7.29,3.76,20.83,93.40,1.02,1
+122,Animal Unsanitary Conditions,Health,2897,0.34,1.10,2.72,3.24,97.58,0.00,1
+123,Conduit Investigation,Transportation,3650,0.32,3.52,5.16,10.99,91.45,1.22,1
+124,Animal Barking Dog,Health,3948,0.31,0.88,2.15,2.89,98.56,0.03,1
+125,"Animal Failure to Restrain Animal, Known Owner/Known Address",Health,2671,0.30,0.81,2.00,2.71,99.18,0.04,1
+125,Barricades-Install,Transportation,622,0.30,3.93,2.02,13.10,97.11,0.16,1
+127,Water Discolored,Water Wastewater,3830,0.29,1.64,0.83,5.65,98.04,0.00,1
+128,Animal Stray Held,Health,4232,0.24,0.87,2.21,3.63,98.91,0.00,1
+128,Hydrant Open,Water Wastewater,1431,0.24,5.37,3.99,22.38,91.19,0.00,1
+130,Parking Complaint,Transportation,118051,0.18,10.32,12.76,57.33,89.20,0.00,1
+131,Animal Attack Against Human,Health,781,0.17,1.34,4.19,7.87,96.54,0.00,1
+131,Water No Water,Water Wastewater,17502,0.17,12.37,34.55,72.76,80.75,0.37,1
+133,Debris In Roadway,Transportation,4212,0.14,2.15,3.83,15.32,94.09,0.07,1
+133,Water Water In Basement,Water Wastewater,4768,0.14,11.28,27.57,80.58,85.11,0.13,1
+135,Animal Aggressive Animal,Health,6146,0.13,0.49,1.17,3.78,99.67,0.05,1
+136,Water Turn Off (Request),Water Wastewater,3037,0.10,3.51,0.98,35.11,95.49,0.10,1
+137,Animal In Danger/Injured/Abused/Neglected,Health,19488,0.09,0.40,0.96,4.39,99.69,0.00,1
+137,Water Turn On (Request),Water Wastewater,1470,0.09,2.61,0.51,29.02,97.21,0.07,1
+139,Animal Wildlife Complaint,Health,5331,0.06,0.27,0.65,4.45,99.62,0.06,1
+140,Liquor License Complaint,Liquor Board,2679,0.05,0.46,0.44,9.29,98.51,0.00,1
+141,Fire Smoke Alarm Installation Request,Fire Department,6060,0.04,0.11,0.10,2.74,99.87,0.12,1
+142,Animal Police/Fire/Sheriff/City Work Crew Standby,Health,2057,0.03,0.07,0.11,2.30,100.00,0.00,1

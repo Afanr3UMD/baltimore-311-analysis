@@ -1,0 +1,31 @@
+year,rank,request_type,requests_comparable_months,requests_full_year,previous_year_requests_comparable,change,pct_change,includes_data_gap
+2023,1,Sanitation Property,34237,43664,,,,false
+2023,2,Parking Complaint,30783,37481,,,,false
+2023,3,48 Hour Parking/Abandoned Vehicle,23065,27420,,,,false
+2023,4,HGW,18872,25370,,,,false
+2023,5,Dirty Alley,17301,20458,,,,false
+2023,6,Bulk Scheduled-Weekday,15396,18927,,,,false
+2023,7,Dirty Street,15324,18536,,,,false
+2023,8,Illegal Dumping,12821,15360,,,,false
+2023,9,StLight(s) Out,12434,14694,,,,false
+2023,10,City Trash Can or Recycling Cart Concern,12310,14910,,,,false
+2024,1,Parking Complaint,29471,35697,30783,-1312,-4.26,false
+2024,2,Sanitation Property,28785,37903,34237,-5452,-15.92,false
+2024,3,48 Hour Parking/Abandoned Vehicle,22829,27624,23065,-236,-1.02,false
+2024,4,Dirty Alley,16696,19787,17301,-605,-3.50,false
+2024,5,HGW,16000,24445,18872,-2872,-15.22,false
+2024,6,Bulk Scheduled-Weekday,14942,18403,15396,-454,-2.95,false
+2024,7,City Trash Can or Recycling Cart Concern,13663,16676,12310,1353,10.99,false
+2024,8,Illegal Dumping,13556,16078,12821,735,5.73,false
+2024,9,Mixed Refuse,13289,15550,10142,3147,31.03,false
+2024,10,Dirty Street,12845,15424,15324,-2479,-16.18,false
+2025,1,Parking Complaint,46329,47633,29471,16858,57.20,true
+2025,2,Sanitation Property,29720,31081,28785,935,3.25,true
+2025,3,Dirty Alley,18849,19406,16696,2153,12.90,true
+2025,4,HGW,18606,20208,16000,2606,16.29,true
+2025,5,Mixed Refuse,18087,18447,13289,4798,36.11,true
+2025,6,Recycling,16941,17195,10727,6214,57.93,true
+2025,7,Bulk Scheduled-Weekday,15257,15799,14942,315,2.11,true
+2025,8,City Trash Can or Recycling Cart Concern,14519,14994,13663,856,6.27,true
+2025,9,48 Hour Parking/Abandoned Vehicle,12535,13544,22829,-10294,-45.09,true
+2025,10,Dirty Street,12275,12674,12845,-570,-4.44,true

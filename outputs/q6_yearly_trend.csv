@@ -1,0 +1,4 @@
+year,resolved_requests,median_days,avg_days,p90_days,pct_closed_within_7_days,median_days_change_vs_prev_year,pct_within_7_days_change_vs_prev_year,pct_faster_than_type_median,median_days_comparable_months,pct_within_7_days_comparable_months,open_set_requests,still_open_requests,pct_still_open
+2023,445079,2.13,15.60,23.03,71.34,,,56.08,2.13,71.15,455120,9086,2.00
+2024,445130,2.73,14.87,28.08,67.77,0.60,-3.57,48.90,2.84,67.11,456596,9185,2.01
+2025,389007,2.74,16.07,31.78,66.60,0.01,-1.17,43.22,2.74,66.60,398323,7851,1.97

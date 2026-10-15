@@ -1,0 +1,31 @@
+type_rank,request_type,year,resolved_requests,pct_of_year_resolved,median_days,previous_year_median,change_days,pct_change,direction,median_2023,change_vs_2023_days,pct_change_vs_2023,direction_vs_2023,resolved_requests_comparable_months,median_days_comparable_months,pct_change_comparable_months,direction_comparable_months,pct_change_vs_2023_comparable_months,direction_vs_2023_comparable_months
+1,Parking Complaint,2023,37086,8.33,0.13,,,,,0.13,,,,30485,0.13,,,,
+1,Parking Complaint,2024,35426,7.96,0.14,0.13,0.01,7.69,Slower,0.13,0.01,7.69,Slower,29258,0.14,7.69,Slower,7.69,Slower
+1,Parking Complaint,2025,45539,11.71,0.48,0.14,0.34,242.86,Slower,0.13,0.35,269.23,Slower,45539,0.48,242.86,Slower,269.23,Slower
+2,Sanitation Property,2023,43555,9.79,4.17,,,,,4.17,,,,34144,4.25,,,,
+2,Sanitation Property,2024,37793,8.49,5.03,4.17,0.86,20.62,Slower,4.17,0.86,20.62,Slower,28694,5.31,24.94,Slower,24.94,Slower
+2,Sanitation Property,2025,29621,7.61,5.16,5.03,0.13,2.58,About the same,4.17,0.99,23.74,Slower,29621,5.16,-2.82,About the same,21.41,Slower
+3,HGW,2023,25365,5.70,5.82,,,,,5.82,,,,18868,5.03,,,,
+3,HGW,2024,24441,5.49,3.82,5.82,-2.00,-34.36,Faster,5.82,-2.00,-34.36,Faster,15998,4.12,-18.09,Faster,-18.09,Faster
+3,HGW,2025,18601,4.78,1.84,3.82,-1.98,-51.83,Faster,5.82,-3.98,-68.38,Faster,18601,1.84,-55.34,Faster,-63.42,Faster
+4,48 Hour Parking/Abandoned Vehicle,2023,24583,5.52,7.03,,,,,7.03,,,,20378,7.11,,,,
+4,48 Hour Parking/Abandoned Vehicle,2024,23383,5.25,9.00,7.03,1.97,28.02,Slower,7.03,1.97,28.02,Slower,19424,9.82,38.12,Slower,38.12,Slower
+4,48 Hour Parking/Abandoned Vehicle,2025,10816,2.78,14.01,9.00,5.01,55.67,Slower,7.03,6.98,99.29,Slower,10816,14.01,42.67,Slower,97.05,Slower
+5,Dirty Alley,2023,20298,4.56,1.53,,,,,1.53,,,,17182,1.66,,,,
+5,Dirty Alley,2024,19591,4.40,3.02,1.53,1.49,97.39,Slower,1.53,1.49,97.39,Slower,16533,3.23,94.58,Slower,94.58,Slower
+5,Dirty Alley,2025,18724,4.81,5.46,3.02,2.44,80.79,Slower,1.53,3.93,256.86,Slower,18724,5.46,69.04,Slower,228.92,Slower
+6,City Trash Can or Recycling Cart Concern,2023,14793,3.32,13.84,,,,,13.84,,,,12201,13.79,,,,
+6,City Trash Can or Recycling Cart Concern,2024,16516,3.71,13.45,13.84,-0.39,-2.82,About the same,13.84,-0.39,-2.82,About the same,13536,13.85,0.44,About the same,0.44,About the same
+6,City Trash Can or Recycling Cart Concern,2025,14340,3.69,14.07,13.45,0.62,4.61,About the same,13.84,0.23,1.66,About the same,14340,14.07,1.59,About the same,2.03,About the same
+7,Dirty Street,2023,18125,4.07,1.22,,,,,1.22,,,,15010,1.23,,,,
+7,Dirty Street,2024,14961,3.36,2.87,1.22,1.65,135.25,Slower,1.22,1.65,135.25,Slower,12450,3.18,158.54,Slower,158.54,Slower
+7,Dirty Street,2025,11870,3.05,5.72,2.87,2.85,99.30,Slower,1.22,4.50,368.85,Slower,11870,5.72,79.87,Slower,365.04,Slower
+8,Mixed Refuse,2023,11595,2.61,0.37,,,,,0.37,,,,9851,0.38,,,,
+8,Mixed Refuse,2024,15327,3.44,0.57,0.37,0.20,54.05,Slower,0.37,0.20,54.05,Slower,13105,0.58,52.63,Slower,52.63,Slower
+8,Mixed Refuse,2025,17803,4.58,0.80,0.57,0.23,40.35,Slower,0.37,0.43,116.22,Slower,17803,0.80,37.93,Slower,110.53,Slower
+9,Recycling,2023,8182,1.84,0.59,,,,,0.59,,,,7068,0.60,,,,
+9,Recycling,2024,12542,2.82,0.67,0.59,0.08,13.56,Slower,0.59,0.08,13.56,Slower,10660,0.67,11.67,Slower,11.67,Slower
+9,Recycling,2025,16844,4.33,0.84,0.67,0.17,25.37,Slower,0.59,0.25,42.37,Slower,16844,0.84,25.37,Slower,40.00,Slower
+10,StLight(s) Out,2023,14497,3.26,1.22,,,,,1.22,,,,12249,1.32,,,,
+10,StLight(s) Out,2024,12644,2.84,1.19,1.22,-0.03,-2.46,About the same,1.22,-0.03,-2.46,About the same,9944,1.31,-0.76,About the same,-0.76,About the same
+10,StLight(s) Out,2025,8266,2.12,1.23,1.19,0.04,3.36,About the same,1.22,0.01,0.82,About the same,8266,1.23,-6.11,Faster,-6.82,Faster
